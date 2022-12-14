@@ -1,0 +1,1 @@
+# adb_fastboot_CapsuleID
